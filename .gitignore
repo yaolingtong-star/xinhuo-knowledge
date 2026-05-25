@@ -1,0 +1,16 @@
+﻿# Obsidian config - do NOT sync
+.obsidian/
+.obsidian.json
+*.lox
+
+# System
+.DS_Store
+Thumbs.db
+
+# Plugins cache
+plugins/
+templates/
+
+# Temp
+*.tmp
+*.bak
